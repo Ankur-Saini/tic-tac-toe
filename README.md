@@ -1,5 +1,5 @@
 # tic-tac-toe
-Hey there! We all loved to play Tic-Tac-Toe while sitting on in the class or spending some time with friends.
+Hey there! We all loved to play Tic-Tac-Toe while sitting in the class or spending some time with friends.
 This is a digital version of the same!
 2 players can simulataneously play this game. Player 1 gets to choose a marker and Player 2 is given its marker accordingly.
 The program then randomly chooses which Player gets to go first.
